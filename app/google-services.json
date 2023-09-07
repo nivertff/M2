@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "248299604120",
+    "project_id": "newapp-ecade",
+    "storage_bucket": "newapp-ecade.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248299604120:android:fdfba4fb9e2cd468fb28ed",
+        "android_client_info": {
+          "package_name": "com.example.m2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248299604120-c2bdpjh6ia28d67uee43cbdp77u4vpe7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.m2",
+            "certificate_hash": "9aaf1245a596abef18babd9ab2ddb7e314ebab00"
+          }
+        },
+        {
+          "client_id": "248299604120-sdqj1suhdi3k1f99ca0j82fu45s1auj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5PRTdDMIYVq0PmRD3yq17Y38-9vJXx8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248299604120-sdqj1suhdi3k1f99ca0j82fu45s1auj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
